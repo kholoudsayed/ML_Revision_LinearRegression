@@ -1,5 +1,7 @@
 # ML_Revision_LinearRegression
 
+Revision for Linear Regression Model( ML )
+
 TO Learn More about Regression :
 
 Vedio (Coursera: https://www.coursera.org/learn/machine-learning/lecture/1VkCb/supervised-learning )
